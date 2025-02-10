@@ -5,8 +5,7 @@ public class Main {
     int num = 10;
     if (num % 2 == 0) {
         System.out.println(num + " Is even.");
-    }
-    else {
+    } else {
         System.out.println(num + " Is odd. ");
     }
     }
